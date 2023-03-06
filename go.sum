@@ -116,6 +116,8 @@ github.com/DataDog/datadog-api-client-go v1.0.0-beta.20/go.mod h1:T4YUFSUXoBbhxY
 github.com/DataDog/datadog-go v4.4.0+incompatible h1:R7WqXWP4fIOAqWJtUKmSfuc7eDsBT58k9AY5WSHVosk=
 github.com/DataDog/datadog-go v4.4.0+incompatible/go.mod h1:LButxg5PwREeZtORoXG3tL4fMGNddJ+vMq1mwgfaqoQ=
 github.com/DataDog/gostackparse v0.5.0/go.mod h1:lTfqcJKqS9KnXQGnyQMCugq3u1FP6UZMfWR0aitKFMM=
+github.com/FrankYang0529/terraform-provider-harvester v0.0.0-20230303081021-db65471e79fc h1:PdqCAmXv8fiZwcQWiTbrS3C5t9+JgsmoId3wn4jD86E=
+github.com/FrankYang0529/terraform-provider-harvester v0.0.0-20230303081021-db65471e79fc/go.mod h1:2NqY4YY25UkgHN6BioIHHT7mFqgYaRAOsWO84rc0Ei4=
 github.com/GoogleCloudPlatform/k8s-cloud-provider v1.16.1-0.20210702024009-ea6160c1d0e3/go.mod h1:8XasY4ymP2V/tn2OOV9ZadmiTE1FIB/h3W+yNlPttKw=
 github.com/IBM-Cloud/bluemix-go v0.0.0-20210203095940-db28d5e07b55 h1:sUpBb2/GC8L6UOKDnbEZLRTxQB2RQgMv1mxbnOHOQW4=
 github.com/IBM-Cloud/bluemix-go v0.0.0-20210203095940-db28d5e07b55/go.mod h1:kqTYO0mts71aa8PVwviaKlCKYud/NbEkFIqU8aHH3/g=
@@ -881,8 +883,6 @@ github.com/harvester/harvester v1.1.0-rc3 h1:mH/AHiiS6C6BnhoFlNoLomHSsr23fnDhBPv
 github.com/harvester/harvester v1.1.0-rc3/go.mod h1:elFAH0rqOHqLUW0zjPswGWZfNp+Z++uQHf2URWVoFd0=
 github.com/harvester/harvester-network-controller v0.3.0-rc3 h1:20fFQ/TDZhMtvTxI4ftE3Xgsdld/R+uPXfDlO+y0Yfc=
 github.com/harvester/harvester-network-controller v0.3.0-rc3/go.mod h1:FhD2OxWbQfrpoD7YbTJfpia9VqKPuOOB/P5YUJ1UKLU=
-github.com/harvester/terraform-provider-harvester v0.5.4-0.20221021015602-300b73b965d3 h1:COCxx8YKpGTl8W6MYcuaC6QcikbNNWbZDxC2X9O+6LM=
-github.com/harvester/terraform-provider-harvester v0.5.4-0.20221021015602-300b73b965d3/go.mod h1:lDoMclo5iA51tz/1LziVMlTGqgfOY6twEI54Aw16MBE=
 github.com/hashicorp/aws-sdk-go-base v0.4.0/go.mod h1:eRhlz3c4nhqxFZJAahJEFL7gh6Jyj5rQmQc7F9eHFyQ=
 github.com/hashicorp/consul v0.0.0-20171026175957-610f3c86a089/go.mod h1:mFrjN1mfidgJfYP1xrJCF+AfRhr6Eaqhb2+sfyn/OOI=
 github.com/hashicorp/consul/api v1.1.0/go.mod h1:VmuI/Lkw1nC05EYQWNKwWGbkg+FbDBtguAZLlVdkD9Q=

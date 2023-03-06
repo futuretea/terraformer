@@ -53,7 +53,7 @@ replace (
 	sigs.k8s.io/structured-merge-diff => sigs.k8s.io/structured-merge-diff v0.0.0-20190302045857-e85c7b244fd2
 )
 
-replace github.com/harvester/terraform-provider-harvester => github.com/harvester/terraform-provider-harvester v0.5.4-0.20221021015602-300b73b965d3
+replace github.com/harvester/terraform-provider-harvester => github.com/FrankYang0529/terraform-provider-harvester v0.0.0-20230303081021-db65471e79fc
 
 require (
 	github.com/harvester/harvester v1.1.0-rc3
